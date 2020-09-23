@@ -31,13 +31,16 @@
 | Redefining or changing macro value #define | https://stackoverflow.com/questions/9274500/redefining-or-changing-macro-value |
 | C char* to int conversion | https://stackoverflow.com/questions/13145777/c-char-to-int-conversionv |
 |  |  |
-
 |  |  |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
  
+## Git
+| Description | Command |
+| ----- | ----- |
+| View git repo configuration | `git config --list` |
 
 ## Bazel
 
