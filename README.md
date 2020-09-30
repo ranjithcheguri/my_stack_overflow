@@ -7,7 +7,7 @@
 |concat const char*|concat const char*|cast to string -> back to c_str()|https://stackoverflow.com/questions/1995053/const-char-concatenation|
 |linker errors when compiled with gcc|Programs compiles in g++ but exits with linker errors in gcc|When you compile with gcc, the C++ libraries are not linked in by default. Always build C++ code with g++.|https://stackoverflow.com/questions/1221902/programs-compiles-in-g-but-exits-with-linker-errors-in-gcc|
 |Undefined symbols for architecture x86_64| compilation problem | use g++ instead of gcc | https://stackoverflow.com/questions/8034568/undefined-symbols-for-architecture-x86-64-which-architecture-should-i-use |
-|  |  |  |  |
+| int to string | int to string  | std::to_string(num)  | http://www.cplusplus.com/reference/string/to_string/  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
