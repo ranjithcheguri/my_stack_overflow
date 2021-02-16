@@ -15,6 +15,28 @@
 |  |  |  |  |
 |  |  |  |  |
 
+## Python
+| Issue | links |
+| ----- | ----- |
+| how to capture subprocess error | https://stackoverflow.com/a/62047314/3915372 |
+| python - convert UTC timestamp to unixtime | https://stackoverflow.com/a/44439877/3915372 |
+|  |  |
+|  |  |
+|  |  |
+
+## Linux / Shell
+| Description | Command |
+| ----- | ----- |
+| -z mean in Bash | https://stackoverflow.com/a/18096739/3915372 |
+|How to self-terminate a bash script after timeout?|https://unix.stackexchange.com/a/130926/456264, |
+|||
+
+## Kubernetes
+| Issue | links |
+| ----- | ----- |
+|  |  |
+|  |  |
+|  |  |
 
 ### Resources
 | Description | links |
@@ -36,15 +58,17 @@
 |  |  |
 |  |  |
 |  |  |
- 
+
 ## Git
 | Description | Command |
 | ----- | ----- |
 | View git repo configuration | `git config --list` |
 
 ## Bazel
+| Description | Command |
+| ----- | ----- |
+|  |  |
 
-## Linux / Shell
 
 ## General
 | Description | links |
