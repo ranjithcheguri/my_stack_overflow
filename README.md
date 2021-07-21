@@ -33,10 +33,10 @@
 |How to check if a variable is set in Bash?|`if [ -n "$1" ]`|https://stackoverflow.com/a/3601734/3915372 |
 |How to create a permanent “alias”?|`use ~/.bash_profile`|https://askubuntu.com/a/1417/981405|
 |How to find architecture of my PC and Ubuntu?|`uname -a or uname -m`|https://askubuntu.com/a/189641/981405|
-|replace a string in file using shell script|`sed -i "s|VALUE_BEFORE_REPLACE|${TO_BE_REPLCAED_VARIABLE_OR_VALUE}|gi" filename.txt`|https://stackoverflow.com/a/8487046/3915372|
 |Check existence of input argument in a Bash shell script|`if [ $# -eq 0 ] if [ -z "$1" ]`|https://stackoverflow.com/a/6482403/3915372|
-|Multithreading in Bash|`use & and wait`|https://stackoverflow.com/a/2425914/3915372|
+|Multithreading in Bash|`use & and wait`| https://stackoverflow.com/a/2425914/3915372 |
 |How to conditionally do something if a command succeeded or failed|`command && echo "OK" || echo "NOK" `| https://unix.stackexchange.com/a/90995/456264 |
+|replace a string in file using shell script|`sed -i "s|VALUE_BEFORE_REPLACE|${TO_BE_REPLCAED_VARIABLE_OR_VALUE}|gi" filename.txt`|https://stackoverflow.com/a/8487046/3915372|
 ||||
 ||||
 ||||
