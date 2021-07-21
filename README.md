@@ -35,12 +35,13 @@
 |How to find architecture of my PC and Ubuntu?|`uname -a or uname -m`|https://askubuntu.com/a/189641/981405|
 |Check existence of input argument in a Bash shell script|`if [ $# -eq 0 ] if [ -z "$1" ]`|https://stackoverflow.com/a/6482403/3915372|
 |Multithreading in Bash|`use & and wait`| https://stackoverflow.com/a/2425914/3915372 |
-|How to conditionally do something if a command succeeded or failed|`command && echo "OK" || echo "NOK"`| https://unix.stackexchange.com/a/90995/456264 |
-|replace a string in file using shell script|`sed -i "s|VALUE_BEFORE_REPLACE|${TO_BE_REPLCAED_VARIABLE_OR_VALUE}|gi" filename.txt`|https://stackoverflow.com/a/8487046/3915372|
-||||
-||||
-||||
-||||
+|How to conditionally do something if a command succeeded or failed|`command && echo "OK" \|\| echo "NOK"`| https://unix.stackexchange.com/a/90995/456264 |
+|replace a string in file using shell script|`sed -i "s\|VALUE_BEFORE_REPLACE\|${TO_BE_REPLCAED_VARIABLE_OR_VALUE}\|gi" filename.txt`|https://stackoverflow.com/a/8487046/3915372|
+|How to store a command in a variable in a shell script?|`x="ls \| wc" eval "$x"`|https://stackoverflow.com/a/5615748/3915372|
+|How to execute command stored in a variable?|`eval "$cmd"`|https://stackoverflow.com/a/4668800/3915372|
+|Using “${a:-b}” for variable assignment in scripts|`VAR1="${VAR1:-default value}"`|https://unix.stackexchange.com/a/122848/456264|
+|How to copy files from/to a Linux VM|`scp -r macFolder username@vm_ip_addr:~/.` or `scp -r username@vm_ip_addr:~/VMfolder ~/.`|https://uoa-eresearch.github.io/vmhandbook/doc/copy-file-linux.html|
+|Need to assign the contents of a text file to a variable in a bash script|`file_contents=$(cat answer.txt)`|https://stackoverflow.com/questions/14116748/need-to-assign-the-contents-of-a-text-file-to-a-variable-in-a-bash-script|
 ||||
 
 
