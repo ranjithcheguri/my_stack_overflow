@@ -29,7 +29,15 @@
 | ----- | ----- |
 | -z mean in Bash | https://stackoverflow.com/a/18096739/3915372 |
 |How to self-terminate a bash script after timeout?|https://unix.stackexchange.com/a/130926/456264, |
+|How to use sudo inside a docker container?| https://stackoverflow.com/a/49529946/3915372 |
+|How to check if a variable is set in Bash?| https://stackoverflow.com/a/3601734/3915372 |
+|How to create a permanent “alias”?|https://askubuntu.com/a/1417/981405|
+|How to find architecture of my PC and Ubuntu?|https://askubuntu.com/a/189641/981405|
+|replace a string in file using shell script|https://stackoverflow.com/a/8487046/3915372|
+|Check existence of input argument in a Bash shell script|https://stackoverflow.com/a/6482403/3915372|
+|Multithreading in Bash|https://stackoverflow.com/a/2425914/3915372|
 |||
+
 
 ## Kubernetes
 | Issue | links |
